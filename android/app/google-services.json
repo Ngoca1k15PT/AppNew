@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736996119562",
+    "project_id": "appchat-b13ad",
+    "storage_bucket": "appchat-b13ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736996119562:android:6cad5f77278a64dca2bbf3",
+        "android_client_info": {
+          "package_name": "com.appnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQtahILukwHQ93Tb3QMs4AFC0xoJFM5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
