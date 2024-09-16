@@ -5,7 +5,7 @@
    * You can view your `SDKAppID` after creating an application in the [TRTC console](https://console.trtc.io/).
    * `SDKAppID` uniquely identifies a Tencent Cloud account.
    */
-const SDKAPPID:number = 20011215;
+const SDKAPPID:number = 0;
 
 /**
    * Signature validity period, which should not be set too short
@@ -25,6 +25,6 @@ const EXPIRETIME = 604800;
  * Note: this method is for testing only. Before commercial launch, please migrate the UserSig calculation code and key to your backend server to prevent key disclosure and traffic stealing.
  * Reference: https://trtc.io/document/35166
  */
-const SECRETKEY:string = 'fa3cbb2209b367a809dbc6126689c69b2ad9ef0a4ba1bc69a04222efbdfd391c';
+const SECRETKEY:string = '';
 
 export { SDKAPPID, EXPIRETIME, SECRETKEY };
